@@ -1,0 +1,1 @@
+For this assignment, I utilized a few of balls that have different sizes and in different spots and make them rotated in high speed.

@@ -1,0 +1,1 @@
+Adapted the overall tone of the project
